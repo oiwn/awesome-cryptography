@@ -22,6 +22,7 @@ Curated list of awesome cryptography projects, libraries, and resources.
 ## Homomorphic Encryption
 
 * [OpenFHE](https://github.com/openfheorg/openfhe-development) - Open-source library for fully homomorphic encryption, supporting multiple schemes including CKKS, BGV, and BFV.
+* [Microsoft SEAL](https://github.com/microsoft/SEAL) - easy-to-use and powerful homomorphic encryption library.
 
 ## Oracles
 
