@@ -10,7 +10,6 @@ Curated list of awesome cryptography projects, libraries, and resources.
 ## Distributed
 
 + http://ipfs.io - The InterPlanetary File System (IPFS) is a new hypermedia distribution protocol, addressed by content and identities. IPFS enables the creation of completely distributed applications. It aims to make the web faster, safer, and more open.
-+ https://www.bigchaindb.com - a decentralized database, at scale. It is complementary to decentralized processing platforms like Ethereum, and decentralized file systems like InterPlanetary File System (IPFS).
 
 ## Exchangs
 
