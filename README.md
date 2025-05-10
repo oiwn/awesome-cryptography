@@ -2,6 +2,10 @@
 
 Curated list of awesome cryptography projects, libraries, and resources.
 
+## Papers
+
+[Cryptology ePrint Archive](https://eprint.iacr.org) - provides rapid access to recent research in cryptology. Papers have been placed here by the authors and did not undergo any refereeing process other than verifying that the work seems to be within the scope of cryptology and meets some minimal acceptance criteria and publishing conditions.
+
 
 ## Distributed
 
