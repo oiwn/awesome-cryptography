@@ -6,6 +6,9 @@ Curated list of awesome cryptography projects, libraries, and resources.
 
 [Cryptology ePrint Archive](https://eprint.iacr.org) - provides rapid access to recent research in cryptology. Papers have been placed here by the authors and did not undergo any refereeing process other than verifying that the work seems to be within the scope of cryptology and meets some minimal acceptance criteria and publishing conditions.
 
+## Rust fundamentals
+
++ [algebra](https://github.com/arkworks-rs/algebra) - libraries for finite field, elliptic curve, and polynomial arithmetic
 
 ## Distributed
 
