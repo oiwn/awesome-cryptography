@@ -29,6 +29,8 @@ Curated list of awesome cryptography projects, libraries, and resources.
 
 * [OpenFHE](https://github.com/openfheorg/openfhe-development) - Open-source library for fully homomorphic encryption, supporting multiple schemes including CKKS, BGV, and BFV.
 * [Microsoft SEAL](https://github.com/microsoft/SEAL) - easy-to-use and powerful homomorphic encryption library.
+* [HEXL](https://github.com/IntelLabs/hexl) - Intel Homomorphic Encryption Acceleration Library accelerates modular arithmetic operations used in homomorphic encryption by leveraging AVX512 and IFM52 available on Intel's 3rd Generation Xeon Scalable Processors and later.
+
 
 ## Oracles
 
