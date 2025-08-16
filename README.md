@@ -32,6 +32,9 @@ Curated list of awesome cryptography projects, libraries, and resources.
 * [HEXL](https://github.com/IntelLabs/hexl) - Intel Homomorphic Encryption Acceleration Library accelerates modular arithmetic operations used in homomorphic encryption by leveraging AVX512 and IFM52 available on Intel's 3rd Generation Xeon Scalable Processors and later.
 * [Lattigo](https://github.com/tuneinsight/lattigo) - A library for lattice-based multiparty homomorphic encryption in Go.
 
+## Interesting projects
+
+* [FaceID using pi-heaan (CKH)](https://github.com/dripdropdr/Face-heaan)
 
 ## Oracles
 
