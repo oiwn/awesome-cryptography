@@ -9,6 +9,7 @@ Curated list of awesome cryptography projects, libraries, and resources.
 ## Rust fundamentals
 
 + [algebra](https://github.com/arkworks-rs/algebra) - libraries for finite field, elliptic curve, and polynomial arithmetic
++ [crypto-bigint](https://github.com/RustCrypto/crypto-bigint) - Cryptography-oriented big integer library with constant-time, stack-allocated (no_std-friendly) implementations of modern formulas
 
 ## Distributed
 
