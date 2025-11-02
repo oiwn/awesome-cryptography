@@ -32,6 +32,7 @@ Curated list of awesome cryptography projects, libraries, and resources.
 * [Microsoft SEAL](https://github.com/microsoft/SEAL) - easy-to-use and powerful homomorphic encryption library.
 * [HEXL](https://github.com/IntelLabs/hexl) - Intel Homomorphic Encryption Acceleration Library accelerates modular arithmetic operations used in homomorphic encryption by leveraging AVX512 and IFM52 available on Intel's 3rd Generation Xeon Scalable Processors and later.
 * [Lattigo](https://github.com/tuneinsight/lattigo) - A library for lattice-based multiparty homomorphic encryption in Go.
+* [fhe.rs](https://github.com/tlepoint/fhe.rs) - Fully Homomorphic Encryption library in Rust: RNS-variant of the Brakerski-Fan-Vercauteren (BFV)
 
 ## Interesting projects
 
